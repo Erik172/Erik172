@@ -1,6 +1,12 @@
-### Erik Garcia - @erik172_
+### Erik Garcia | Erik172
 
-## Hi there 👋
+#### Software programmer
+
+Hi :wave: . My name is Erik and I am a person with a passion for technology who never wants to stop learning
+
+### Links
+- [Microsoft Learn](https://docs.microsoft.com/en-us/users/erik172/)
+- [Platzi](https://platzi.com/@Erik172/)
 
 <!--
 **Erik172/Erik172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
