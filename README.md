@@ -6,6 +6,7 @@ Hi :wave: . My name is Erik and I am a person with a passion for technology who 
 
 ### Links
 - [Microsoft Learn](https://docs.microsoft.com/en-us/users/erik172/)
+- [Linkedin](https://www.linkedin.com/in/erik172/)
 - [Platzi](https://platzi.com/@Erik172/)
 
 <!--
